@@ -1,0 +1,12 @@
+{
+  "clientes": [
+    {
+      "nombre": "Edgar",
+      "empresa": "Promologistics",
+      "email": "eedgar.hmarc@gmail.com",
+      "telefono": "7341695020",
+      "notas": "Que agradable sujeto",
+      "id": 1
+    }
+  ]
+}
